@@ -3,7 +3,7 @@
 
 ## I am a programming student!
 
-- 🌱 I’m currently learning Java!
+- 🌱 I’m currently learning Java, Git & Python!
 - ⛏️ My hobby is creating plugins for Minecraft using Bukkit/Spigot/Paper and more.
 - 🥅 2023 Goals: Learn more about Java and minecraft Forks.
 - 🎮 Fun fact: I love to play videogames.
