@@ -27,4 +27,4 @@
 
 ---
 ![Btd20 GitHub stats](https://github-readme-stats.vercel.app/api?username=Btd20&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Btd20&layout=donut&theme=tokyonight)](https://github.com/Btd20/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Btd20&layout=compact&theme=tokyonight)
