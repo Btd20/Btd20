@@ -21,12 +21,8 @@
 <img align="left" alt="Git" width="26px" src="https://i.imgur.com/JTZKZrd.png" style="padding-right:10px;" />
 <img align="left" alt="MongoDB" width="26px" src="https://i.imgur.com/tznP4En.png" style="padding-right:10px;" />
 
-
-<br />
-<br />
-
----
 ### My best repositories:
+
 <a href="https://github.com/Btd20/CustomWelcome">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Btd20&repo=CustomWelcome&theme=tokyonight" />
 </a>
@@ -34,5 +30,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Btd20&repo=SetHome&theme=tokyonight" />
 </a>
 
+---
 ![Btd20 GitHub stats](https://github-readme-stats.vercel.app/api?username=Btd20&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Btd20&layout=compact&theme=tokyonight)
