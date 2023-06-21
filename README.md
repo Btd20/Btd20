@@ -27,7 +27,7 @@
 
 ## My last projects:
 [![SetHome](https://github-readme-stats.vercel.app/api/pin/?username=Btd20&repo=SetHome)](https://github.com/Btd20/SetHome)
-[![CustomWelcome](https://github-readme-stats.vercel.app/api/pin/?username=Btd20&repo=CustomWelcome)](https://github.com/Btd20/CustomWelcome)
+[![CustomWelcome](https://github-readme-stats.vercel.app/api/pin/?username=Btd20&repo=CustomWelcome&theme=tokyonight)](https://github.com/Btd20/CustomWelcome)
 
 ---
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Btd20&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
