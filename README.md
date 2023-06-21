@@ -1,5 +1,5 @@
 # Hi there, I'm Yeray (Beeted_) 👋
-
+<img src="https://img.shields.io/github/stars/madushadhanushka?label=Stars" alt="stars">
 
 ## I am a programming student!
 
