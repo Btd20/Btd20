@@ -25,7 +25,7 @@
 <br/>
 <br/>
 
-## My last project:
+## My last projects:
 [![SetHome](https://github-readme-stats.vercel.app/api/pin/?username=Btd20&repo=SetHome)](https://github.com/Btd20/SetHome)
 [![CustomWelcome](https://github-readme-stats.vercel.app/api/pin/?username=Btd20&repo=CustomWelcome)](https://github.com/Btd20/CustomWelcome)
 
