@@ -35,5 +35,5 @@
 </a>
 
 ---
-![Btd20 GitHub stats](https://github-readme-stats.vercel.app/api?username=Btd20&show_icons=true&theme=tokyonight)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Btd20&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Btd20&layout=compact&theme=tokyonight)
