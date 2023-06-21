@@ -31,4 +31,3 @@
 
 ---
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Btd20&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Btd20&layout=compact&theme=tokyonight)
