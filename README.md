@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning Java, Git & Python!
 - ⛏️ My hobby is creating plugins for Minecraft using Bukkit/Spigot/Paper and more.
-- 🥅 2023 Goals: Learn more about Java and minecraft Forks.
+- 📝 Certificates: Oracle Academy, Java Foundations.
 - 🎮 Fun fact: I love to play videogames.
 
 ### Languages and Tools:
