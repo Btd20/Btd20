@@ -30,4 +30,4 @@
 [![CustomWelcome](https://github-readme-stats.vercel.app/api/pin/?username=Btd20&repo=CustomWelcome)](https://github.com/Btd20/CustomWelcome)
 
 ---
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Btd20&data=followers,repositories,stars,commits&theme=default)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Btd20&data=followers,repositories,stars,commits&theme=default)](https://github.com/Btd20)
