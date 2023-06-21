@@ -25,14 +25,8 @@
 <br/>
 <br/>
 
-## My best repositories:
-
-<a href="https://github.com/Btd20/CustomWelcome">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Btd20&repo=CustomWelcome&theme=tokyonight" />
-</a>
-<a href="https://github.com/Btd20/SetHome">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Btd20&repo=SetHome&theme=tokyonight" />
-</a>
+## My last project:
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Btd20&repo=SetHome&theme=tokyonight" />
 
 ---
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Btd20&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
