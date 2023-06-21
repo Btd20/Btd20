@@ -26,5 +26,11 @@
 <br />
 
 ---
-![Btd20 GitHub stats](https://github-readme-stats.vercel.app/api?username=Btd20&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Btd20&layout=compact&theme=tokyonight)
+<div class="row">
+  <div class="col text-center">
+    ![Btd20 GitHub stats](https://github-readme-stats.vercel.app/api?username=Btd20&show_icons=true&theme=tokyonight)
+  </div>
+  <div class="col text-center">
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Btd20&layout=compact&theme=tokyonight)
+  </div>
+</div>
