@@ -9,6 +9,7 @@
 - ⛏️ My hobby is creating plugins for Minecraft using Bukkit/Spigot/Paper and more.
 - 📝 Certificates: Oracle Academy, Java Foundations.
 - 🎮 Fun fact: I love to play videogames.
+- 🌍 My Languages: Spanish, Catalan, English.
 
 ### Languages and Tools:
 
