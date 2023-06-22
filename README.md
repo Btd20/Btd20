@@ -1,6 +1,8 @@
 ![Presentation](https://github.com/Btd20/Btd20/blob/main/header.png?raw=true)
 
 <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Btd20?color=236ad3&style=for-the-badge&logo=github&label=Follow"/> <img alt="views" title="Profile views" src="https://komarev.com/ghpvc/?username=Btd20&style=for-the-badge"/>
+<br/>
+[![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/stargazers/)
 
 ## I am a programming student!
 
