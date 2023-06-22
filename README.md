@@ -1,6 +1,6 @@
 ![Presentation](https://github.com/Btd20/Btd20/blob/main/header.png?raw=true)
 
-<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Btd20?color=236ad3&style=for-the-badge&logo=github&label=Follow"/> <img alt="views" title="Profile views" src="https://komarev.com/ghpvc/?username=Btd20&style=for-the-badge"/> <img alt="coffee" title="A lot of coffee!" width="220px" src="https://forthebadge.com/images/badges/contains-17-coffee-cups.svg"/>
+<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Btd20?color=236ad3&style=for-the-badge&logo=github&label=Follow"/> <img alt="views" title="Profile views" src="https://komarev.com/ghpvc/?username=Btd20&style=for-the-badge"/> <img alt="coffee" title="A lot of coffee!" width="215px" src="https://forthebadge.com/images/badges/contains-17-coffee-cups.svg"/>
 <br/>
 
 ## I am a programming student!
