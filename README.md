@@ -5,7 +5,6 @@
 
 ## I am a programming student!
 
-- 🌱 I’m currently learning ASP.NET Core and Angular!
 - ⛏️ My hobby is creating plugins for Minecraft using Bukkit/Spigot/Paper and more.
 - 📝 Certificates: Oracle Academy, Java Foundations, SOLID Design Principles Course, and More...
 - 🎮 Fun fact: I love to play videogames.
