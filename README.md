@@ -32,4 +32,4 @@
 [![CustomWelcome](https://github-readme-stats.vercel.app/api/pin/?username=Btd20&repo=CustomWelcome)](https://github.com/Btd20/CustomWelcome)
 
 ---
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bergahd&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=bergahd&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
